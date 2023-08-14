@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="ico-20-cam" transform="translate(-1181 -99)">
+    <rect id="Rectangle_304" data-name="Rectangle 304" width="20" height="20" transform="translate(1181 99)" fill="#fff" opacity="0"/>
+    <g id="Group_465" data-name="Group 465" transform="translate(1182.5 101.717)">
+      <rect id="Rectangle_300" data-name="Rectangle 300" width="2.002" height="6" rx="1" transform="translate(0.502 15.806) rotate(180)" fill="#fff"/>
+      <path id="Path_332" data-name="Path 332" d="M7329.094,3911.188l-2.125,5.142s-1.9-.033-2.675,0" transform="translate(-7323.662 -3903.382)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <g id="Group_466" data-name="Group 466" transform="translate(0.299 -1.45) rotate(20)">
+        <path id="Rectangle_301" data-name="Rectangle 301" d="M0,0H1.6A.4.4,0,0,1,2,.4v3A1.6,1.6,0,0,1,.4,5h0A.4.4,0,0,1,0,4.6V0A0,0,0,0,1,0,0Z" transform="translate(14.5 2.806)" fill="#fff"/>
+        <path id="Rectangle_302" data-name="Rectangle 302" d="M.6,0H15.4a.6.6,0,0,1,.6.6v0A2.4,2.4,0,0,1,13.6,3H.6A.6.6,0,0,1,0,2.4V.6A.6.6,0,0,1,.6,0Z" transform="translate(2.5 -1.194)" fill="#fff"/>
+        <rect id="Rectangle_303" data-name="Rectangle 303" width="11" height="6" rx="1" transform="translate(2.5 2.806)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

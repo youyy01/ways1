@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.017" height="17.433" viewBox="0 0 38.017 17.433">
+    <g data-name="Group 48">
+        <path data-name="Line 24" transform="translate(11.883 13.466)" style="fill:none;stroke:#fff;stroke-linejoin:round;stroke-width:1.6px" d="M0 0h14.25"/>
+        <g data-name="Group 44">
+            <g data-name="Group 52">
+                <path data-name="Path 28" d="M32.667 13.667h4.75V9.708l-.792-2.375s-3.983-1.237-9.5-2.375C24.979 2.4 21.484 1 20 1h-6.333C10.6 1 6.319 4.167 4.958 4.958h-2.38a.786.786 0 0 0-.786.792v3.167L1 10.5v1.583a1.583 1.583 0 0 0 1.583 1.583H5.75" transform="translate(-.2 -.2)" style="fill:none;stroke:#fff;stroke-linejoin:round;stroke-width:1.6px"/>
+                <path data-name="Path 29" d="m29.292 6.167-1.583.792h-7.126L19 3" transform="translate(-3.95 -.617)" style="fill:none;stroke:#fff;stroke-linejoin:round;stroke-width:1.6px"/>
+                <path data-name="Path 30" d="M18.5 7.792H9.792L9 7" transform="translate(-1.867 -1.45)" style="fill:none;stroke:#fff;stroke-linejoin:round;stroke-width:1.6px"/>
+                <path data-name="Path 31" d="M33 16.17a3.169 3.169 0 1 0 3.169-3.164A3.166 3.166 0 0 0 33 16.17z" transform="translate(-6.866 -2.702)" style="fill:none;stroke:#fff;stroke-linejoin:round;stroke-width:1.6px"/>
+                <path data-name="Path 32" d="M7 16.17a3.169 3.169 0 1 0 3.169-3.164A3.166 3.166 0 0 0 7 16.17z" transform="translate(-1.45 -2.702)" style="fill:none;stroke:#fff;stroke-linejoin:round;stroke-width:1.6px"/>
+            </g>
+        </g>
+    </g>
+</svg>

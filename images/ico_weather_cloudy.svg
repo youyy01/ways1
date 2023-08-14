@@ -1,0 +1,14 @@
+<svg id="ico-40-weather" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_374" data-name="Path 374" d="M11.594,20v3.938H.881V2.315H26.407V10H21.031Z" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_8" data-name="Rectangle 8" width="40" height="40" fill="none"/>
+  <g id="ico" transform="translate(0 4)">
+    <path id="Path_372" data-name="Path 372" d="M39.325,20.617a5.516,5.516,0,0,1-5.653,5.369H12.833a3.334,3.334,0,1,1,0-6.658c.1,0,.2,0,.3.013a4.352,4.352,0,0,1-.3-1.6,4.8,4.8,0,0,1,4.919-4.671,5.041,5.041,0,0,1,3.1,1.049,6.33,6.33,0,0,1,6.482-6.13,6.326,6.326,0,0,1,6.482,6.155,5.669,5.669,0,0,1-.112,1.108A5.516,5.516,0,0,1,39.325,20.617Z" transform="translate(-1.325 2.014)" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g id="Mask_Group_9" data-name="Mask Group 9" clip-path="url(#clip-path)">
+      <path id="Path_373" data-name="Path 373" d="M35.325,19.214a4.837,4.837,0,0,1-4.9,4.772H12.365a2.96,2.96,0,1,1,0-5.918c.089,0,.174,0,.262.011a3.956,3.956,0,0,1-.262-1.424A4.208,4.208,0,0,1,16.629,12.5a4.3,4.3,0,0,1,2.685.932,5.62,5.62,0,0,1,11.235.023,5.164,5.164,0,0,1-.1.984A4.838,4.838,0,0,1,35.325,19.214Z" transform="translate(-6.325 -3.986)" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

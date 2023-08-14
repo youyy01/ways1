@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <clipPath id="k6zsjfbgda">
+            <path data-name="Path 6" d="M0 0h23.485v15.5l-4.385-.581-3.849 1.481-.917 3.7-1.186 3.377H0z" style="stroke-width:2px;fill:none;stroke:#ffffff"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 5">
+        <g data-name="Mask Group 1" transform="translate(0 6)" style="clip-path:url(#k6zsjfbgda)">
+            <path data-name="Path 1" d="M19.59 13.13a6.459 6.459 0 1 1-6.459-6.459 6.459 6.459 0 0 1 6.459 6.459" transform="translate(.374 .374)" style="stroke-width:2px;fill:none;stroke:#ffffff"/>
+            <path data-name="Line 2" transform="translate(13.327 2.348)" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none;stroke:#ffffff" d="M0 1.536V0"/>
+            <path data-name="Line 4" transform="translate(5.565 5.564)" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none;stroke:#ffffff" d="M1.086 1.086 0 0"/>
+            <path data-name="Line 6" transform="translate(2.348 13.327)" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none;stroke:#ffffff" d="M1.536 0H0"/>
+            <path data-name="Line 8" transform="translate(5.565 20.005)" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none;stroke:#ffffff" d="M1.086 0 0 1.086"/>
+            <path data-name="Line 10" transform="translate(20.005 5.564)" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none;stroke:#ffffff" d="M0 1.086 1.086 0"/>
+        </g>
+        <path data-name="Path 5" d="M37.319 20.075a5.208 5.208 0 0 1-5.276 5.138H12.6a3.187 3.187 0 1 1 0-6.372c.1 0 .187 0 .283.012a4.26 4.26 0 0 1-.283-1.533 4.53 4.53 0 0 1 4.59-4.471 4.629 4.629 0 0 1 2.891 1 6.051 6.051 0 0 1 12.1.024 5.56 5.56 0 0 1-.1 1.06 5.209 5.209 0 0 1 5.238 5.142z" transform="translate(1.431 7.794)" style="stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#ffffff"/>
+        <path data-name="Path 4" d="M37.319 20.075a5.208 5.208 0 0 1-5.276 5.138H12.6a3.187 3.187 0 1 1 0-6.372c.1 0 .187 0 .283.012a4.26 4.26 0 0 1-.283-1.533 4.53 4.53 0 0 1 4.59-4.471 4.629 4.629 0 0 1 2.891 1 6.051 6.051 0 0 1 12.1.024 5.56 5.56 0 0 1-.1 1.06 5.209 5.209 0 0 1 5.238 5.142z" transform="translate(1.431 7.794)" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none;stroke:#ffffff"/>
+    </g>
+</svg>

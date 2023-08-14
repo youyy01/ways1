@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="241.001" height="241.001" viewBox="0 0 241.001 241.001">
+  <g id="bg" transform="translate(0.501 0.501)">
+    <path id="Rectangle_88" data-name="Rectangle 88" d="M0,0H240a0,0,0,0,1,0,0V232a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V0A0,0,0,0,1,0,0Z" fill="#212121"/>
+    <path id="Rectangle_270" data-name="Rectangle 270" d="M0,0H240a0,0,0,0,1,0,0V232a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V0A0,0,0,0,1,0,0Z" fill="#fff" style="mix-blend-mode: color;isolation: isolate"/>
+    <rect id="Rectangle_310" data-name="Rectangle 310" width="88" height="76" transform="translate(76 164)" fill="#424242"/>
+    <g id="도로" transform="translate(80 165)" opacity="0.26">
+      <path id="Union_3" data-name="Union 3" d="M0,75l0-6.029,1.491.005,0,6.026ZM.019,63.833V57.8l1.494,0,0,6.029Zm.007-12.05V45.759l1.5,0-.011,6.03Zm0-33.708.007-6.023,1.5,0-.008,6.023ZM.035,6.023V0h1.5l0,6.024Z" transform="translate(39.915)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <path id="Union_2" data-name="Union 2" d="M18.889,18.93V0h5.44V18.93Zm47.223,0L66.11,0h5.447l0,18.928Zm-9.445,0V0h5.441V18.929Zm-18.889,0L37.776,0h5.447l0,18.928Zm-9.445,0V0h5.442V18.929Zm-18.887,0L9.444,0H14.89V18.929ZM0,18.929V0H5.442V18.929Zm75.557,0V0H81V18.928Zm-28.334,0V0h5.444V18.928Z" transform="translate(0 22.535)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+    <rect id="Rectangle_311" data-name="Rectangle 311" width="88" height="76" transform="translate(164 76) rotate(180)" fill="#424242"/>
+    <g id="도로-2" data-name="도로" transform="translate(160 75) rotate(180)" opacity="0.26">
+      <path id="Union_3-2" data-name="Union 3" d="M0,75l0-6.029,1.491.005,0,6.026ZM.019,63.833V57.8l1.494,0,0,6.029Zm.007-12.05V45.759l1.5,0-.011,6.03Zm0-33.708.007-6.023,1.5,0-.008,6.023ZM.035,6.023V0h1.5l0,6.024Z" transform="translate(39.915)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <path id="Union_2-2" data-name="Union 2" d="M18.889,18.93V0h5.44V18.93Zm47.223,0L66.11,0h5.447l0,18.928Zm-9.445,0V0h5.441V18.929Zm-18.889,0L37.776,0h5.447l0,18.928Zm-9.445,0V0h5.442V18.929Zm-18.887,0L9.444,0H14.89V18.929ZM0,18.929V0H5.442V18.929Zm75.557,0V0H81V18.928Zm-28.334,0V0h5.444V18.928Z" transform="translate(0 22.535)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+    <rect id="Rectangle_312" data-name="Rectangle 312" width="88" height="76" transform="translate(164 164) rotate(-90)" fill="#424242"/>
+    <g id="도로-3" data-name="도로" transform="translate(165 160) rotate(-90)" opacity="0.26">
+      <path id="Union_3-3" data-name="Union 3" d="M0,75l0-6.029,1.491.005,0,6.026ZM.019,63.833V57.8l1.494,0,0,6.029Zm.007-12.05V45.759l1.5,0-.011,6.03Zm0-33.708.007-6.023,1.5,0-.008,6.023ZM.035,6.023V0h1.5l0,6.024Z" transform="translate(39.915)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <path id="Union_2-3" data-name="Union 2" d="M18.889,18.93V0h5.44V18.93Zm47.223,0L66.11,0h5.447l0,18.928Zm-9.445,0V0h5.441V18.929Zm-18.889,0L37.776,0h5.447l0,18.928Zm-9.445,0V0h5.442V18.929Zm-18.887,0L9.444,0H14.89V18.929ZM0,18.929V0H5.442V18.929Zm75.557,0V0H81V18.928Zm-28.334,0V0h5.444V18.928Z" transform="translate(0 22.535)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+    <rect id="Rectangle_313" data-name="Rectangle 313" width="88" height="76" transform="translate(76 76) rotate(90)" fill="#424242"/>
+    <g id="도로-4" data-name="도로" transform="translate(75 80) rotate(90)" opacity="0.26">
+      <path id="Union_3-4" data-name="Union 3" d="M0,75l0-6.029,1.491.005,0,6.026ZM.019,63.833V57.8l1.494,0,0,6.029Zm.007-12.05V45.759l1.5,0-.011,6.03Zm0-33.708.007-6.023,1.5,0-.008,6.023ZM.035,6.023V0h1.5l0,6.024Z" transform="translate(39.915)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <path id="Union_2-4" data-name="Union 2" d="M18.889,18.93V0h5.44V18.93Zm47.223,0L66.11,0h5.447l0,18.928Zm-9.445,0V0h5.441V18.929Zm-18.889,0L37.776,0h5.447l0,18.928Zm-9.445,0V0h5.442V18.929Zm-18.887,0L9.444,0H14.89V18.929ZM0,18.929V0H5.442V18.929Zm75.557,0V0H81V18.928Zm-28.334,0V0h5.444V18.928Z" transform="translate(0 22.535)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+    <rect id="Rectangle_314" data-name="Rectangle 314" width="88" height="88" transform="translate(76 76)" fill="#424242"/>
+  </g>
+</svg>

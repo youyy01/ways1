@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <clipPath id="df55fjj9ta">
+            <path data-name="Rectangle 13" transform="translate(-2 .586)" style="fill:#fff;opacity:0" d="M0 0h20v20H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 3" style="clip-path:url(#df55fjj9ta)" transform="translate(2 -.586)">
+        <path data-name="Path 10" d="M58.5 96.086v6h-6" transform="rotate(45 148.582 -6.615)" style="stroke-width:1.6px;fill:none;stroke:#E94609"/>
+        <path data-name="Path 15" d="M58.5 102.086v-6h-6" transform="rotate(45 135.304 -12.116)" style="stroke-width:1.6px;fill:none;stroke:#E94609"/>
+        <path data-name="Path 13" d="M52.5 96.086v6h6" transform="rotate(45 143.082 6.663)" style="stroke-width:1.6px;fill:none;stroke:#E94609"/>
+        <path data-name="Path 14" d="M52.5 102.086v-6h6" transform="rotate(45 129.804 1.163)" style="stroke-width:1.6px;fill:none;stroke:#E94609"/>
+    </g>
+    <path data-name="Line 11" transform="rotate(45 2.596 20.596)" style="stroke-dasharray:1 1;fill:none;stroke:#E94609" d="M0 0v5"/>
+    <path data-name="Path 16" d="M0-1v6" transform="rotate(45 -10.682 15.096)" style="stroke-dasharray:1 1;fill:none;stroke:#E94609"/>
+    <path data-name="Line 13" transform="rotate(135 2.525 5.575)" style="stroke-dasharray:1 1;fill:none;stroke:#E94609" d="M0 0v5"/>
+    <path data-name="Line 14" transform="rotate(135 4.596 10.575)" style="stroke-dasharray:1 1;fill:none;stroke:#E94609" d="M0 0v5"/>
+</svg>
